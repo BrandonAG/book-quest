@@ -49,7 +49,7 @@ localhost:3001
 
 On the landing page you can create your account, and now you are all set to start saving books titles to your wish list.
 
-![Saved Books Example](https://github.com/BrandonAG/book-quest/blob/main/image.jpg?raw=true)
+![Saved Books Example](https://github.com/BrandonAG/book-quest/blob/main/book-search.png?raw=true)
 
 ## Questions
 
